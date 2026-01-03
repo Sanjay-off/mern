@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    border: 0px;
+}
+body{
+    min-height: 100vh;
+    background-color: black;
+    color: aliceblue;
+    display: grid;
+
+}
